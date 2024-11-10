@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770115035097",
+    "project_id": "scriptural-vzafn4",
+    "storage_bucket": "scriptural-vzafn4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770115035097:android:3a57316ecc5578bd5783c8",
+        "android_client_info": {
+          "package_name": "com.mycompany.scriptural"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvP4u-HmeL_MXa6aknWyrz4FAGhRCQbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
